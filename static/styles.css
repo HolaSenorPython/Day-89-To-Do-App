@@ -1,0 +1,49 @@
+/*
+ * CUSTOM BUTTONS
+*/
+
+.btn-byzantium {
+    background-color: #702963;
+    color: white;
+    border: none;
+    padding: 1rem 2rem;
+    font-size: 1.75rem;
+    font-weight: bold;
+}
+
+.btn-byzantium:hover,
+.btn-byzantium:focus {
+    background-color: #CBC3E3;
+    color: white;
+}
+
+.btn-hot-pink {
+    background-color: #FF69B4;
+    color: white;
+    border: none;
+}
+
+.btn-hot-pink:hover,
+.btn-hot-pink:focus {
+    background-color: #FFB6C1;
+    color: white;
+}
+
+.btn-lime-green {
+    background-color: #32CD32;
+    color: white;
+    border: none;
+}
+
+.btn-lime-green:hover,
+.btn-lime-green:focus {
+    background-color: #90ef8f;
+    color: white;
+}
+
+/*
+ * CUSTOM Container background
+*/
+.bg-dark-green {
+    background-color:  #006400;
+}
